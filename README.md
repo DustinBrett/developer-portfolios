@@ -228,6 +228,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dhruva Bhat S N](https://dhruvabhat.netlify.app)
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Diego Rezende](https://diegorezm.netlify.app/)
+- [Diego Orofino](https://diego.orofino.dev/)
 - [Dillion Megida](http://dillionmegida.com)
 - [Dimitri Pashutskii](https://dpashutskii.com)
 - [Dina TAKLIT](https://dinataklit.github.io/DinaTaklitPortfolio)
